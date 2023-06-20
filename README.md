@@ -17,6 +17,7 @@
   
   <p align="center">
     <a href="https://github.com/Gunjan-dhande/Compressor_Decompressor"><strong>Explore the repository </strong></a><br>
+    <img src="src/Photos/YouTube.png" alt="Logo" width="25" height="15">
      <a href="https://youtu.be/pgFrkUUlmO4"><strong> File Compressor And Decompressor Video Link </strong></a>
     <br />
     <br />
